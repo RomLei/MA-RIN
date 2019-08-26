@@ -1,0 +1,158 @@
+the cycnum is 0 layer=2, the size is 100
+the initial degree is 0.0665
+the interdependent network MA--edgecrossover is 0.1722
+the cycnum is 1 layer=2, the size is 100
+the initial degree is 0.0896
+the interdependent network MA--edgecrossover is 0.1926
+the cycnum is 2 layer=2, the size is 100
+the initial degree is 0.0606
+the interdependent network MA--edgecrossover is 0.1737
+the cycnum is 3 layer=2, the size is 100
+the initial degree is 0.0794
+the interdependent network MA--edgecrossover is 0.1859
+the cycnum is 4 layer=2, the size is 100
+the initial degree is 0.0669
+the interdependent network MA--edgecrossover is 0.2055
+the cycnum is 5 layer=2, the size is 100
+the initial degree is 0.0906
+the interdependent network MA--edgecrossover is 0.2038
+the cycnum is 6 layer=2, the size is 100
+the initial degree is 0.0607
+the interdependent network MA--edgecrossover is 0.1894
+the cycnum is 7 layer=2, the size is 100
+the initial degree is 0.0796
+the interdependent network MA--edgecrossover is 0.2005
+the cycnum is 8 layer=2, the size is 100
+the initial degree is 0.0746
+the interdependent network MA--edgecrossover is 0.1774
+the cycnum is 9 layer=2, the size is 100
+the initial degree is 0.079
+the interdependent network MA--edgecrossover is 0.1956
+the cycnum is 10 layer=2, the size is 200
+the initial degree is 0.048325
+the interdependent network MA--edgecrossover is 0.097425
+the cycnum is 11 layer=2, the size is 200
+the initial degree is 0.056725
+the interdependent network MA--edgecrossover is 0.160725
+the cycnum is 12 layer=2, the size is 200
+the initial degree is 0.042025
+the interdependent network MA--edgecrossover is 0.13405
+the cycnum is 13 layer=2, the size is 200
+the initial degree is 0.0659
+the interdependent network MA--edgecrossover is 0.152875
+the cycnum is 14 layer=2, the size is 200
+the initial degree is 0.072025
+the interdependent network MA--edgecrossover is 0.159075
+the cycnum is 15 layer=2, the size is 200
+the initial degree is 0.059925
+the interdependent network MA--edgecrossover is 0.1538
+the cycnum is 16 layer=2, the size is 200
+the initial degree is 0.0653
+the interdependent network MA--edgecrossover is 0.118425
+the cycnum is 17 layer=2, the size is 200
+the initial degree is 0.075675
+the interdependent network MA--edgecrossover is 0.16795
+the cycnum is 18 layer=2, the size is 200
+the initial degree is 0.0626
+the interdependent network MA--edgecrossover is 0.1117
+the cycnum is 19 layer=2, the size is 200
+the initial degree is 0.0617
+the interdependent network MA--edgecrossover is 0.161475
+the cycnum is 20 layer=2, the size is 300
+the initial degree is 0.0566889
+the interdependent network MA--edgecrossover is 0.156178
+the cycnum is 21 layer=2, the size is 300
+the initial degree is 0.0575667
+the interdependent network MA--edgecrossover is 0.109933
+the cycnum is 22 layer=2, the size is 300
+the initial degree is 0.0516444
+the interdependent network MA--edgecrossover is 0.0995667
+the cycnum is 23 layer=2, the size is 300
+the initial degree is 0.0450222
+the interdependent network MA--edgecrossover is 0.0906556
+the cycnum is 24 layer=2, the size is 300
+the initial degree is 0.0513556
+the interdependent network MA--edgecrossover is 0.0940889
+the cycnum is 25 layer=2, the size is 300
+the initial degree is 0.0507778
+the interdependent network MA--edgecrossover is 0.1425
+the cycnum is 26 layer=2, the size is 300
+the initial degree is 0.0596444
+the interdependent network MA--edgecrossover is 0.113378
+the cycnum is 27 layer=2, the size is 300
+the initial degree is 0.0576
+the interdependent network MA--edgecrossover is 0.132167
+the cycnum is 28 layer=2, the size is 300
+the initial degree is 0.0620778
+the interdependent network MA--edgecrossover is 0.139133
+the cycnum is 29 layer=2, the size is 300
+the initial degree is 0.0509111
+the interdependent network MA--edgecrossover is 0.107811
+the cycnum is 30 layer=2, the size is 400
+the initial degree is 0.044925
+the interdependent network MA--edgecrossover is 0.081325
+the cycnum is 31 layer=2, the size is 400
+the initial degree is 0.0544188
+the interdependent network MA--edgecrossover is 0.0894687
+the cycnum is 32 layer=2, the size is 400
+the initial degree is 0.0536875
+the interdependent network MA--edgecrossover is 0.0981875
+the cycnum is 33 layer=2, the size is 400
+the initial degree is 0.0519188
+the interdependent network MA--edgecrossover is 0.100156
+the cycnum is 34 layer=2, the size is 400
+the initial degree is 0.0643938
+the interdependent network MA--edgecrossover is 0.0939625
+the cycnum is 35 layer=2, the size is 400
+the initial degree is 0.0418938
+the interdependent network MA--edgecrossover is 0.0807125
+the cycnum is 36 layer=2, the size is 400
+the initial degree is 0.0520688
+the interdependent network MA--edgecrossover is 0.0917875
+the cycnum is 37 layer=2, the size is 400
+the initial degree is 0.0564312
+the interdependent network MA--edgecrossover is 0.0980437
+the cycnum is 38 layer=2, the size is 400
+the initial degree is 0.04725
+the interdependent network MA--edgecrossover is 0.101125
+the cycnum is 39 layer=2, the size is 400
+the initial degree is 0.056475
+the interdependent network MA--edgecrossover is 0.103
+the cycnum is 40 layer=2, the size is 500
+the initial degree is 0.055592
+the interdependent network MA--edgecrossover is 0.09104
+the cycnum is 41 layer=2, the size is 500
+the initial degree is 0.051172
+the interdependent network MA--edgecrossover is 0.082388
+the cycnum is 42 layer=2, the size is 500
+the initial degree is 0.051848
+the interdependent network MA--edgecrossover is 0.09202
+the cycnum is 43 layer=2, the size is 500
+the initial degree is 0.057028
+the interdependent network MA--edgecrossover is 0.10966
+the cycnum is 44 layer=2, the size is 500
+the initial degree is 0.05684
+the interdependent network MA--edgecrossover is 0.095444
+the cycnum is 45 layer=2, the size is 500
+the initial degree is 0.049672
+the interdependent network MA--edgecrossover is 0.089364
+the cycnum is 46 layer=2, the size is 500
+the initial degree is 0.045912
+the interdependent network MA--edgecrossover is 0.085364
+the cycnum is 47 layer=2, the size is 500
+the initial degree is 0.048116
+the interdependent network MA--edgecrossover is 0.118744
+the cycnum is 48 layer=2, the size is 500
+the initial degree is 0.040628
+the interdependent network MA--edgecrossover is 0.101728
+the cycnum is 49 layer=2, the size is 500
+the initial degree is 0.060124
+the interdependent network MA--edgecrossover is 0.100304
+网络大小:100-500
+平均初始度	多层网络优化结果 
+0.07475	0.18966
+0.06102	0.14175
+0.0543289	0.118541
+0.0523463	0.0937769
+0.0516932	0.0966056
+MA-SF-2网络

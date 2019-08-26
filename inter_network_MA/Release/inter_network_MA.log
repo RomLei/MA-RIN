@@ -1,0 +1,109 @@
+﻿  computeKnn.cpp
+computeKnn.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+computeKnn.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+computeKnn.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+  computeR.cpp
+computeR.cpp(15): warning C4101: “layer_ops”: 未引用的局部变量
+computeR.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
+computeR.cpp(60): warning C4018: “<”: 有符号/无符号不匹配
+computeR.cpp(76): warning C4018: “<”: 有符号/无符号不匹配
+computeR.cpp(88): warning C4018: “<”: 有符号/无符号不匹配
+computeR.cpp(154): warning C4018: “<”: 有符号/无符号不匹配
+computeR.cpp(173): warning C4018: “<”: 有符号/无符号不匹配
+computeR.cpp(183): warning C4018: “<”: 有符号/无符号不匹配
+computeR.cpp(195): warning C4018: “<”: 有符号/无符号不匹配
+computeR.cpp(207): warning C4101: “layer_ops”: 未引用的局部变量
+  crossover.cpp
+crossover.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+crossover.cpp(31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+crossover.cpp(32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+crossover.cpp(58): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+crossover.cpp(59): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+crossover.cpp(88): warning C4018: “<”: 有符号/无符号不匹配
+crossover.cpp(104): warning C4018: “<”: 有符号/无符号不匹配
+crossover.cpp(112): warning C4018: “<”: 有符号/无符号不匹配
+crossover.cpp(127): warning C4018: “<”: 有符号/无符号不匹配
+crossover.cpp(132): warning C4018: “<”: 有符号/无符号不匹配
+crossover.cpp(137): warning C4018: “<”: 有符号/无符号不匹配
+  initialization.cpp
+initialization.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+initialization.cpp(19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+initialization.cpp(31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+initialization.cpp(32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+initialization.cpp(59): warning C4018: “<”: 有符号/无符号不匹配
+initialization.cpp(47): warning C4101: “rn2”: 未引用的局部变量
+initialization.cpp(90): warning C4018: “<”: 有符号/无符号不匹配
+initialization.cpp(96): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+initialization.cpp(108): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+initialization.cpp(121): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+initialization.cpp(133): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+initialization.cpp(145): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+initialization.cpp(157): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+initialization.cpp(171): warning C4018: “<”: 有符号/无符号不匹配
+initialization.cpp(181): warning C4018: “<”: 有符号/无符号不匹配
+initialization.cpp(195): warning C4018: “<”: 有符号/无符号不匹配
+initialization.cpp(207): warning C4018: “<”: 有符号/无符号不匹配
+initialization.cpp(216): warning C4018: “<”: 有符号/无符号不匹配
+initialization.cpp(232): warning C4018: “<”: 有符号/无符号不匹配
+  local_search.cpp
+local_search.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+local_search.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+local_search.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+local_search.cpp(63): warning C4018: “<”: 有符号/无符号不匹配
+local_search.cpp(33): warning C4101: “layer_ops”: 未引用的局部变量
+local_search.cpp(91): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+local_search.cpp(92): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+local_search.cpp(94): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+local_search.cpp(95): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+local_search.cpp(81): warning C4101: “ppi”: 未引用的局部变量
+local_search.cpp(154): warning C4018: “<”: 有符号/无符号不匹配
+local_search.cpp(155): warning C4018: “<”: 有符号/无符号不匹配
+local_search.cpp(186): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+local_search.cpp(187): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+local_search.cpp(189): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+local_search.cpp(190): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+local_search.cpp(147): warning C4101: “ppi”: 未引用的局部变量
+local_search.cpp(243): warning C4018: “<”: 有符号/无符号不匹配
+local_search.cpp(253): warning C4018: “<”: 有符号/无符号不匹配
+local_search.cpp(269): warning C4018: “<”: 有符号/无符号不匹配
+local_search.cpp(302): warning C4018: “<”: 有符号/无符号不匹配
+local_search.cpp(353): warning C4018: “<”: 有符号/无符号不匹配
+local_search.cpp(363): warning C4018: “<”: 有符号/无符号不匹配
+local_search.cpp(375): warning C4018: “<”: 有符号/无符号不匹配
+local_search.cpp(397): warning C4018: “<”: 有符号/无符号不匹配
+local_search.cpp(387): warning C4101: “layer_ops”: 未引用的局部变量
+  print_network.cpp
+print_network.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+print_network.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+print_network.cpp(32): warning C4018: “<”: 有符号/无符号不匹配
+print_network.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+print_network.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+print_network.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
+print_network.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+  swap.cpp
+swap.cpp(14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+swap.cpp(15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+swap.cpp(17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+swap.cpp(18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  tools.cpp
+tools.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+tools.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+tools.cpp(79): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+tools.cpp(82): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+tools.cpp(98): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+tools.cpp(101): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+tools.cpp(173): warning C4018: “<”: 有符号/无符号不匹配
+  源.cpp
+源.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+源.cpp(57): warning C4018: “<”: 有符号/无符号不匹配
+源.cpp(162): warning C4018: “<”: 有符号/无符号不匹配
+源.cpp(289): warning C4018: “<”: 有符号/无符号不匹配
+源.cpp(119): warning C4101: “R2_mid”: 未引用的局部变量
+源.cpp(119): warning C4101: “R2”: 未引用的局部变量
+  正在生成代码
+  108 of 993 functions (10.9%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  inter_network_MA.vcxproj -> C:\Users\DELL\Documents\Visual Studio 2015\Projects\inter_network_MA\Release\inter_network_MA.exe
+  inter_network_MA.vcxproj -> C:\Users\DELL\Documents\Visual Studio 2015\Projects\inter_network_MA\Release\inter_network_MA.pdb (Full PDB)

@@ -1,0 +1,9 @@
+﻿  源.cpp
+c:\users\dell\documents\visual studio 2015\projects\inter_network_ma\inter_network_ma\源.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\documents\visual studio 2015\projects\inter_network_ma\inter_network_ma\源.cpp(57): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\documents\visual studio 2015\projects\inter_network_ma\inter_network_ma\源.cpp(161): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\documents\visual studio 2015\projects\inter_network_ma\inter_network_ma\源.cpp(284): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\dell\documents\visual studio 2015\projects\inter_network_ma\inter_network_ma\源.cpp(118): warning C4101: “R2_mid”: 未引用的局部变量
+c:\users\dell\documents\visual studio 2015\projects\inter_network_ma\inter_network_ma\源.cpp(118): warning C4101: “R2”: 未引用的局部变量
+  inter_network_MA.vcxproj -> C:\Users\DELL\Documents\Visual Studio 2015\Projects\inter_network_MA\Debug\inter_network_MA.exe
+  inter_network_MA.vcxproj -> C:\Users\DELL\Documents\Visual Studio 2015\Projects\inter_network_MA\Debug\inter_network_MA.pdb (Partial PDB)
